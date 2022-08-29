@@ -78,6 +78,9 @@ hr {
     align-items: center;
     column-gap: 16px;
     margin-right: 17px;
+    box-shadow: 3px 5px 30px lightgrey;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 .blog .thumbnail img {
@@ -168,7 +171,7 @@ hr {
         text-align: center;
     }
     .courses {
-        row-gap: 15px;
+        row-gap: 19px;
         width: 75%;
         margin-left: auto;
         margin-right: auto;
